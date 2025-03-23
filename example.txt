@@ -1,2 +1,2 @@
-This is the original content of example.txt
-This change is made in the master branch.
+
+This is the final version after resolving the conflict.
